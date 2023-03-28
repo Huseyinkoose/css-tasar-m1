@@ -1,5 +1,16 @@
 
-body{list-style-position: inside}
+body {
+    text-align: center;
+    list-style-position: inside;
+
+  }
+  
+  .ortala2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+    text-align: left;
+  }
 .h1-baslik{
     color:red;
     list-style-position: inside;
