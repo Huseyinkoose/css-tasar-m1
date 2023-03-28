@@ -1,0 +1,14 @@
+
+body{list-style-position: inside}
+.h1-baslik{
+    color:red;
+    list-style-position: inside;
+}
+
+.h2-baslik{
+    color:blueviolet;
+}
+
+.h3-baslik{
+    color:coral;
+}
